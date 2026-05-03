@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://okblue430.github.io/reference-c5hd3h/sitemap.xml
